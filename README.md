@@ -1,7 +1,8 @@
 # **Project of SE 307**
 
 ## **Authors:**
-### **Merve Nur TELLİ**
+### Merve Nur TELLİ
+-------------------------
 
 
 
