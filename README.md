@@ -17,4 +17,4 @@ I am going to implement the program in C#.NET. The simple interface of the appli
 
 ### *Example Library Screen;*
 
-![] (https://github.com/MerveTelli/SE307-Project/blob/main/image/TheLibraryStstem_Screen.JPG)
+<img src="https://user-images.githubusercontent.com/61708140/101086691-49062880-35c2-11eb-85f6-df35453ff3b5.PNG" width="45%"></img>
