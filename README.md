@@ -1,3 +1,4 @@
+:boom:
 # **Project of SE 307**
 
 ## **Authors:**
