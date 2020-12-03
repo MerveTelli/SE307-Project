@@ -1,6 +1,3 @@
-
-# seni seviyorum :heart:
-
 :boom:
 # **Project of SE 307**
 
