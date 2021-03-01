@@ -9,3 +9,13 @@ C:\Users\merve\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.
 C:\Users\merve\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
 C:\Users\merve\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
 C:\Users\merve\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.FullScreen.resources
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojAssemblyReference.cache
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Form1.resources
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\merve\OneDrive\Masaüstü\se307\SE307-Project\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb

@@ -142,6 +142,8 @@ namespace LibrarySystem
             this.button3.Text = "FULL SCREEN";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.button3.KeyDown += new System.Windows.Forms.KeyEventHandler(this.button3_KeyDown);
+            this.button3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.button3_KeyPress);
             // 
             // button2
             // 
@@ -235,6 +237,7 @@ namespace LibrarySystem
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MY LIBRARY";
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

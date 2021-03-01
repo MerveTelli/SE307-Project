@@ -25,7 +25,7 @@ namespace LibrarySystem
         private void button1_Click(object sender, EventArgs e)
         {
             dataGridView1.DataSource = vtclass.List();
-			dataGridView1.Sort(dataGridView1.Columns[1], ListSortDirection.Ascending);
+			
 
 
         }
@@ -80,21 +80,33 @@ namespace LibrarySystem
 
         }
 
-       /* private void button5_Click(object sender, EventArgs e)
+        private void button3_KeyDown(object sender, KeyEventArgs e)
         {
-            dataGridView1.Sort(dataGridView1.Columns[1], ListSortDirection.Ascending);
+
         }
 
-         private void Form1_KeyDown(object sender, KeyEventArgs e)
-         {
-             if (e.KeyCode == Keys.Escape)
-             {
-                 int w = Screen.PrimaryScreen.Bounds.Width;
-                 int h = Screen.PrimaryScreen.Bounds.Height;
-                 this.Location = new Point(0, 0);
-                 this.Size = new Size(898, 513);
+        private void button3_KeyPress(object sender, KeyPressEventArgs e)
+        {
 
-             }
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Escape)
+            {
+                int w = Screen.PrimaryScreen.Bounds.Width;
+                int h = Screen.PrimaryScreen.Bounds.Height;
+                this.Location = new Point(0, 0);
+                this.Size = new Size(898, 513);
+
+            }
+        }
+
+        /* private void button5_Click(object sender, EventArgs e)
+         {
+             dataGridView1.Sort(dataGridView1.Columns[1], ListSortDirection.Ascending);
          } */
+
+
     }
 }
