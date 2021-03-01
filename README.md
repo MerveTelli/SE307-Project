@@ -33,7 +33,7 @@ In this project I developed personal a Library System which. We implemented the 
 
 **Figure 1:** Library System Main Screen
 
-<img src="https://user-images.githubusercontent.com/61708140/109543211-168f9d00-7ad7-11eb-8160-5a2b5a57ebe2.JPG" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/61708140/109543211-168f9d00-7ad7-11eb-8160-5a2b5a57ebe2.JPG" width="45%"></img> 
 
 **Figure 2:** Microsoft Access Database
 
